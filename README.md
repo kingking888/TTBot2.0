@@ -1713,7 +1713,7 @@ ret = bot.get_item_info('6771975338621665796')
 			'description': '中国经济网，传递有价值的信息',
 			'fans_count': 19674896,
 			'follow': 0,
-			'is_vitality_author': False,
+			'is_vitality_author': false,
 			'media_id': 50502346296,
 			'name': '中国经济网',
 			'special_column': [],
@@ -1721,7 +1721,7 @@ ret = bot.get_item_info('6771975338621665796')
 			'user_auth_info': '{"auth_type": "0", "auth_info": "中国经济网官方账号"}',
 			'user_decoration': '',
 			'user_id': 50502346296,
-			'user_verified': True
+			'user_verified': true
 		},
 		'user_repin': 0
 	},
