@@ -1676,42 +1676,7 @@ ret = bot.get_item_info('6771975338621665796')
 			'index': 3,
 			'name': 'like_and_rewards'
 		}, {
-			'data': [ {
-				'aggr_type': 1,
-				'article_type': 0,
-				'behot_time': 1586257979,
-				'bury_count': 0,
-				'comment_count': 34,
-				'digg_count': 346,
-				'group_flags': 2,
-				'group_id': 6812926145076396558,
-				'has_audio': False,
-				'has_video': False,
-				'impr_id': '6812926145076396558_6812926145076396558',
-				'item_id': 6812926145076396558,
-				'log_pb': {
-					'impr_id': '202005062256020100260601501D34AED8'
-				},
-				'middle_image': {
-					'height': 427,
-					'uri': 'list/pgc-image/f14902d4742c4cd9863de71b6f5c8729',
-					'url': 'http://p9-tt.bytecdn.cn/list/pgc-image/f14902d4742c4cd9863de71b6f5c8729',
-					'url_list': [{
-						'url': 'http://p9-tt.bytecdn.cn/list/pgc-image/f14902d4742c4cd9863de71b6f5c8729'
-					}, {
-						'url': 'http://p6-tt.bytecdn.cn/list/pgc-image/f14902d4742c4cd9863de71b6f5c8729'
-					}, {
-						'url': 'http://p3-tt.bytecdn.cn/list/pgc-image/f14902d4742c4cd9863de71b6f5c8729'
-					}],
-					'width': 640
-				},
-				'open_page_url': 'sslocal://detail?is_quick_exit=1&groupid=6812926145076396558&item_id=6812926145076396558&gd_label=click_related&gd_ext_json={"enter_from":"click_related"}&log_pb={"impr_id":"202005062256020100260601501D34AED8"}&from_gid=6771975338621665796',
-				'publish_time': 1586257979,
-				'reason': 'uid_rg:631',
-				'source': '影妈妈育儿经',
-				'title': '爸爸和三个女儿一起睡觉，妈妈拍下照片分享，网友：出格的父爱',
-				'type_name': ''
-			}],
+			'data': [],
 			'index': 5,
 			'name': 'related_news'
 		}],
